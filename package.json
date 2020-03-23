@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugin-utm",
+  "version": "1.0.0",
+  "description": "Save and retrieve UTM parameters over time with cookies. Measure marketing campaigns ",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:papistan/gatsby-plugin-utm.git",
+  "author": "Jay Papisan <jpapisan@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsbyjs",
+    "utm",
+    "url",
+    "parameters",
+    "marketing",
+    "tracking",
+    "plugin",
+    "advertising",
+    "analytics",
+    "campaign",
+    "utm_source",
+    "ads"
+  ]
+}
